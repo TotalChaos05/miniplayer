@@ -1,3 +1,6 @@
 [submodule "uberzug-bak"]
 	path = uberzug-bak
 	url = https://github.com/jstkdng/ueberzugpp
+[submodule "ueberzug-bak"]
+	path = ueberzug-bak
+	url = https://github.com/jstkdng/ueberzugpp
